@@ -1,0 +1,42 @@
+{
+	"profile":{
+		"img":"profile pic.jpg",
+		"name":"k divya sri",
+		"roll":"17a13b0512",
+		"institute":"pragati",
+		"place":"kkd"
+	},
+	"career":{
+	"info":"to secure a challenging where i can explore my talents.To object an executive sales/markting magnagement position within a growth oriented,prosition company.I want to apply business development/sale skill to an enviroment where they will make a significant impact on bottom line."
+},
+	"education":[{
+		"sno":"1",
+		"degree":"10th",
+		"institute":"sri chaitanya school",
+		"year":"2015"
+	},
+	
+		{ "sno":"2",
+		"degree":"intermediate",
+		"institute":"Aditya junior college",
+		"year":"2017"
+	},
+		{
+		"sno":"3",
+		"degree":"b.tech",
+		"institute":"pragati engineering college",
+		"year":"2021"
+	}
+],
+	"languages":[
+	{
+     "lang":"english"
+	},
+	{
+	"lang":"hindi"
+	},
+	{
+		"lang":"telugu"
+	}
+]
+}
